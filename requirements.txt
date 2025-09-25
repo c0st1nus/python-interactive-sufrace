@@ -1,0 +1,4 @@
+# OpenCV будет использоваться системный из Nix
+# opencv-python не нужен, используем python312Packages.opencv4 из shell.nix
+numpy>=1.24.0
+pynput>=1.7.6
